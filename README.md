@@ -1,5 +1,9 @@
 ## Olá, prazer, eu sou o Nickolas, um recente Desenvolvedor de Software que no momento está cursando Ciência da Computação, dê uma olhada nos meus projetos, caso tenha alguma dúvida ou interesse é só me chamar!
 
+##
+##
+##
+
 <table>
   <a href="https://github.com/mellonickolas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mellonickolas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
