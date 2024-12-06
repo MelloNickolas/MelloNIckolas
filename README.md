@@ -1,4 +1,4 @@
-## Hello, I'm Nickolas, be very welcome!
+## Olá, prazer, eu sou o Nickolas, um recente Desenvolvedor de Software que no momento está cursando Ciência da Computação, dê uma olhada nos meus projetos, caso tenha alguma dúvida ou interesse é só me chamar!
 
 <table>
   <a href="https://github.com/mellonickolas">
