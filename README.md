@@ -1,21 +1,17 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá👋 | Seja bem-vindo ao meu perfil, eu sou NIckolas Passos Homem de Mello<strong> | Front-End Developer</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+ <strong> Olá👋 </strong> | Meu nome é NIckolas Passos Homem de Mello! <br>
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  <br> Sou um jovem desenvolvedor front-end e empreendedor!
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  👨‍💻 Linguagens: React | React Native | Angular | Phyton | Javascript
 </p>
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
 
 <p align="left">
   <a href="#" title="Gmail">
