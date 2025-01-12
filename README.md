@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  👨‍💻 Linguagens: React | React Native | Angular | Phyton | Javascript
+<strong> React | React Native | Angular | Phyton | Javascript </strong>
  <br>
  <br>
 </p>
