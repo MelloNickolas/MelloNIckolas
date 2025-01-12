@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h1 align="left"> 
+<h3 align="left"> 
  <strong> Olá👋 | Meu nome é NIckolas Passos Homem de Mello! </strong> <br>
  <br>
-</h1>
+</h3>
 
 <p align="left">
  Sou um jovem desenvolvedor front-end e empreendedor!
