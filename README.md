@@ -1,4 +1,11 @@
 <h1 align="center">Olá👋 | Bem-Vindo ao meu perfil!</h1>
+<br>
+<p align="left">
+ Sou um jovem desenvolvedor front-end e empreendedor!
+</p>
+<p align="left">
+   Atualmente me encontro atuando em outra área, porém sigo aprimorando e abrangendo meu conhecimento sobre programação, bem como, procurando uma oportunidade profissional.
+</p>
 
 <br clear="both">
 
