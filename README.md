@@ -1,7 +1,6 @@
-<h1 align="center">Olá👋 | Bem-Vindo ao meu perfil!</h1>
+<h3 align="center">Olá👋 | Bem-Vindo ao meu perfil!</h3>
 
-<br>
-<br>
+<br clear="both">
 
 <h2 align="left">Minhas Stats</h2>
 
@@ -38,8 +37,6 @@
 <h2 align="left">Redes Sociais</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://www.instagram.com/nickolas_mello/" target="_blank">
