@@ -31,16 +31,16 @@ React • JavaScript • C#/.NET • Java • SQL • HTML • CSS
 
 ## 💼 Featured Projects
 
-🚗 **Trevo Veículos**  
+🚗 **[Trevo Veículos](https://github.com/MelloNickolas/Trevo-Page)**  
 Production website built for a real car dealership.
 
-🚲 **BikeGuard**  
+🚲 **[BikeGuard](https://github.com/MelloNickolas/BikeGuard)**  
 Concept web platform for bicycle sales and security services.
 
-📊 **IDEB-BI**  
+📊 **[IDEB-BI](https://github.com/MelloNickolas/IDEB-BI)**  
 Interactive dashboard analyzing Brazilian education performance data.
 
-🐾 **MyTcc**  
+🐾 **[MyTcc](https://github.com/MelloNickolas/MyTcc)**  
 Java-based full-stack application with REST API integration.
 
 ---
