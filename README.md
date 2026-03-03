@@ -1,12 +1,30 @@
-# 👋 Hello, I'm Nickolas Passos
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A00FF&height=160&section=header"/>
+</p>
 
-Full-Stack Developer focused on building modern, scalable web applications.
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="120" alt="coding gif" />
+</p>
 
-💡 Passionate about technology, product development and user experience.
+<h1 align="center">👋 Hello, I'm Nickolas Passos</h1>
+<h3 align="center">Full-Stack Developer | React • .NET • Java</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MelloNickolas&label=Profile%20views&color=6A00FF&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MelloNickolas&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelloNickolas&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MelloNickolas&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
-## 🚀 Main Stack
+## 🚀 Tech Stack
 React • JavaScript • C#/.NET • Java • SQL • HTML • CSS
 
 ---
@@ -27,5 +45,10 @@ Java-based full-stack application with REST API integration.
 
 ---
 
-## 🌎 Connect with me
-LinkedIn: https://linkedin.com/in/nickolasmello
+## 🌌 About
+Computer Science student passionate about technology, product development and digital strategy.
+
+---
+
+## 📫 Connect
+LinkedIn → https://linkedin.com/in/nickolasmello
